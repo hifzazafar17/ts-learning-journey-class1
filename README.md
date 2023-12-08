@@ -1,2 +1,13 @@
-# ts-learning-journey-class1
-Embarking on my TypeScript journey! 🚀 In the first class, I learned the basics: what TypeScript is, how to install the software, and the thrill of printing 'hello world' on the terminal using console.log(). Excited for the coding odyssey ahead! 💻🌟 #TypeScript #LearningJourney #HelloWorld
+// Welcome to my TypeScript Learning Journey - Class 1!
+
+// In this class, we explored the basics of TypeScript, including:
+// - Understanding what TypeScript is and its significance in modern development.
+// - Installing the TypeScript software to kickstart our coding journey.
+
+// The excitement peaked as we wrote our first TypeScript code, a simple 'hello world' program:
+console.log("Hello, World!");
+
+// This humble line of code represents the beginning of an exciting odyssey into the world of TypeScript.
+// Get ready for more coding adventures ahead! 🚀💻
+
+// #TypeScript #LearningJourney #HelloWorld
